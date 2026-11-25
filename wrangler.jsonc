@@ -1,6 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "cast",
+  "workers_dev": false,
   // Uncomment and fill in your Cloudflare account id when the login has more than one account.
   // "account_id": "<your-cloudflare-account-id>",
 

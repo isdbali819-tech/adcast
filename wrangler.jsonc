@@ -5,7 +5,7 @@
   // "account_id": "<your-cloudflare-account-id>",
 
   // Uncomment to serve the dashboard from your own domain (needs the zone on the same account).
-  // "routes": [{ "pattern": "adcast.example.com", "custom_domain": true }],
+  "routes": [{ "pattern": "tv.yudisadi.my.id", "custom_domain": true }],
 
   "main": "src/worker/index.ts",
   "compatibility_date": "2026-11-01",
